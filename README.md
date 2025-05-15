@@ -4,7 +4,10 @@ This is a Streamlit app for recommending courses based on user preferences and i
 
 ## Installation
 
-1. Clone this repository
+1. Clone this repository or download the project files:
+   ```bash
+   git clone https://github.com/HassanAsim/Course-Recommender-App.git
+   ```
 2. Install the required packages:
    ```bash
    pip install -r requirements.txt
@@ -16,7 +19,7 @@ This is a Streamlit app for recommending courses based on user preferences and i
 
 ## Live Demo
 
-The app is deployed on Streamlit Sharing. You can access the live demo [here](https://share.streamlit.io/).
+The app is deployed on Streamlit Sharing. You can access the live demo [here](https://course-recommender-app.streamlit.app/).
 
 ## Usage
 
